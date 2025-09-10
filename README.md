@@ -36,3 +36,13 @@ It is named as Fast API because of 2 main reasons:
 <img src="0_basics/ml_dl.png" alt="ML / DL Perspective"/>
 
 ----
+
+### How to run this?
+
+Install `uv` on your System and then execute the following commands:
+   
+```bash 
+uv add -r .\requirements.txt
+# or
+uv sync
+```
